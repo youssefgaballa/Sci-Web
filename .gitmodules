@@ -1,0 +1,8 @@
+[submodule "Sci-Web-SPA-vue"]
+	path = Sci-Web-SPA-vue
+	url = https://github.com/youssefgaballa/Sci-Web-SPA-vue.git
+	branch = main
+[submodule "Sci-Web-API-springboot"]
+	path = Sci-Web-API-springboot
+	url = https://github.com/youssefgaballa/Sci-Web-API-springboot.git
+	branch = main
